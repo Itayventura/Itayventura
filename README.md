@@ -18,7 +18,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599)
+![C++](https://img.shields.io/badge/-C++-000000?&logo=c%2b%2b&logoColor=00599)
 ![C](https://img.shields.io/badge/-c-fff?&logo=C&logoColor=A8B9CC)
 
 #### Technologies
@@ -27,6 +27,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
+![Maven](https://img.shields.io/badge/-Maven-FF0000?&logo=Apache%20Maven&logoColor=#C71A36)
+![]()
+![]()
+![]()
+![]()
 
 #### Java projects
 
