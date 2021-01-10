@@ -37,6 +37,14 @@
 [![Who wants to be a Millionaire](https://img.shields.io/badge/Who%20wants%20to%20be%20a%20millionaire-%20-blue)](https://github.com/Itayventura/WhoWantsToBeAMillionaire)
 [![Parking lot](https://img.shields.io/badge/Parking%20lot-%20-yellowgreen)](https://github.com/Itayventura/ParkingLot)
 
+<!-- Most lang stats -->
+<a href="https://github.com/itayventura">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itayventura&theme=dark&hide_langs_below=1" />
+</a>
+
+
+<!-- add stats:
+https://github-readme-stats.vercel.app/api?username=itayventura&show_icons=true&theme=dark&line_height=40 -->
 <!--
 **Itayventura/Itayventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
