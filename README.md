@@ -26,6 +26,14 @@
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 
+#### Java projects
+
+[![Doctor's Delay](https://img.shields.io/badge/Doctor's%20Delay-%20-red)](https://github.com/Itayventura/DoctorsDelay)
+[![StreamProcessor](https://img.shields.io/badge/Stream%20Processor-%20-orange)](https://github.com/Itayventura/StreamProcessor)
+[![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structuers%20and%20Algorithms-%20-green)](https://github.com/Itayventura/DataStructuresAndAlgorithms)
+[![Compiler](https://img.shields.io/badge/Compiler-%20-lightgrey)](https://github.com/Itayventura/COMPILATION)
+
+
 <!--
 **Itayventura/Itayventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
