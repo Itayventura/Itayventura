@@ -29,10 +29,13 @@
 #### Java projects
 
 [![Doctor's Delay](https://img.shields.io/badge/Doctor's%20Delay-%20-red)](https://github.com/Itayventura/DoctorsDelay)
-[![StreamProcessor](https://img.shields.io/badge/Stream%20Processor-%20-orange)](https://github.com/Itayventura/StreamProcessor)
+[![Stream processor](https://img.shields.io/badge/Stream%20Processor-%20-orange)](https://github.com/Itayventura/StreamProcessor)
 [![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structuers%20and%20Algorithms-%20-green)](https://github.com/Itayventura/DataStructuresAndAlgorithms)
 [![Compiler](https://img.shields.io/badge/Compiler-%20-lightgrey)](https://github.com/Itayventura/COMPILATION)
 
+#### Python projects
+[![Who wants to be a Millionaire](https://img.shields.io/badge/Who%20wants%20to%20be%20a%20millionaire-%20-blue)](https://github.com/Itayventura/WhoWantsToBeAMillionaire)
+[![Parking lot](https://img.shields.io/badge/Parking%20lot-%20-yellowgreen)](https://github.com/Itayventura/ParkingLot)
 
 <!--
 **Itayventura/Itayventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
