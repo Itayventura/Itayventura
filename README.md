@@ -2,14 +2,14 @@
 ### I am a software developer and a Computer Science graduate from Tel Aviv University
 
 <!--- 🔭 I’m currently working on ... -->
-- I have deep understanding of Algorithms, data structures, object oriented design
-- I have taken a RDBMS course, designed and implemented database for apps in Java and Python <!-- take a lot at -->
+- I have deep understanding of algorithms, data structures, object oriented design
+- I have knowledge in RDBMS, designed and implemented database for apps in Java and Python
 - I’m currently learning Github Essential Training
-- I've recently contributed for the first time to the open source community, and I am planning to contribute a lot more
+- I'm an open source contributor beginner
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
 
 
-- 📫 How to reach me: 
+- How to reach me: 
 [![dev.to badge](https://img.shields.io/badge/-Linkedin-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/itayventura)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ventura.itay@gmail.com)](mailto:ventura.itay@gmail.com)
 
@@ -28,10 +28,10 @@
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 ![Maven](https://img.shields.io/badge/-Maven-FF0000?&logo=Apache%20Maven&logoColor=#C71A36)
+<!--![]()
 ![]()
 ![]()
-![]()
-![]()
+![]()-->
 
 #### Java projects
 
