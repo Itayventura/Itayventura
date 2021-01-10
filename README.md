@@ -13,6 +13,19 @@
 [![dev.to badge](https://img.shields.io/badge/-Linkedin-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/itayventura)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ventura.itay@gmail.com)](mailto:ventura.itay@gmail.com)
 
+#### Languages
+
+
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599)
+
+#### Technologies
+![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
+![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
+
 <!--
 **Itayventura/Itayventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
