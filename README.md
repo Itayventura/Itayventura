@@ -6,6 +6,7 @@
 - I have taken a RDBMS course, designed and implemented database for apps in Java and Python <!-- take a lot at -->
 - I’m currently learning Spring Boot, JPA
 - I've recently contributed for the first time to the open source community, and I am planning to contribute a lot more
+- My projects are available [here](https://github.com/itayventura?tab=repositories)
 
 
 - 📫 How to reach me: 
