@@ -4,7 +4,8 @@
 <!--- 🔭 I’m currently working on ... -->
 - I have deep understanding of algorithms, data structures, object oriented design
 - I have knowledge in RDBMS, designed and implemented database for apps in Java and Python
-- I’m currently learning Github Essential Training
+- I have recently learnt Spring boot, Hiberante.
+- I’m currently learning Docker
 - I'm an open source contributor beginner
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
 
