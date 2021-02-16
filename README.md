@@ -39,7 +39,7 @@
 
 [![Doctor's Delay](https://img.shields.io/badge/Doctor's%20Delay-%20-red)](https://github.com/Itayventura/DoctorsDelay)
 [![Stream processor](https://img.shields.io/badge/Stream%20Processor-%20-orange)](https://github.com/Itayventura/StreamProcessor)
-[![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structuers%20and%20Algorithms-%20-green)](https://github.com/Itayventura/DataStructuresAndAlgorithms)
+[![Data Structures](https://img.shields.io/badge/Data%20Structuers%20and%20Algorithms-%20-green)](https://github.com/Itayventura/DataStructures)
 [![Compiler](https://img.shields.io/badge/Compiler-%20-lightgrey)](https://github.com/Itayventura/COMPILATION)
 
 #### Python projects
