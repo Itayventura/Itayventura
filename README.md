@@ -2,12 +2,12 @@
 ### I am a software developer and a Computer Science graduate from Tel Aviv University
 
 <!--- 🔭 I’m currently working on ... -->
-- I'm currently developing web applications in Spring Framework.
+- I'm currently developing web applications in the Spring Framework.
 - I designed and implemented applications leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud.
 - I always test my code! My favourite framework for testing my apps is Junit, and Mockito for unit testing.
 - I have deep understanding of algorithms, data structures, object oriented design.
 - I have knowledge in RDBMS, designed and implemented from scratch database for apps in Java and Python
-- I have recently learnt Docker and built and image for my apps.
+- I have recently learnt Docker and built an image for my apps.
 - I am familiar with JDBC, JPA Hiberante, JPQL.
 - I'm an open source contributor beginner
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
