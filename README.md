@@ -31,6 +31,8 @@
 ![Maven](https://img.shields.io/badge/-Maven-FF0000?&logo=Apache%20Maven&logoColor=#C71A36)
 ![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring&logoColor=#000000&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
+![Hibernate](https://img.shields.io/badge/-Hibernate-gray?style=flat&logo=hibernate)
+
 <!--![]()
 ![]()
 ![]()
