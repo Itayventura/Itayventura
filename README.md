@@ -35,6 +35,12 @@
 ![]()
 ![]()-->
 
+#### Spring projects
+
+[![Notifier](https://img.shields.io/badge/Notifier-%20-yellow)](https://github.com/Itayventura/Notifier)
+
+
+
 #### Java projects
 
 [![Doctor's Delay](https://img.shields.io/badge/Doctor's%20Delay-%20-red)](https://github.com/Itayventura/DoctorsDelay)
