@@ -12,7 +12,7 @@
 - I'm an open source contributor beginner
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
 
-If you'd like to know any further information about me, you can reach me at: 
+### If you'd like to know any further information about me, you can reach me at: 
 
 [![dev.to badge](https://img.shields.io/badge/-Linkedin-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/itayventura)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ventura.itay@gmail.com)](mailto:ventura.itay@gmail.com)
