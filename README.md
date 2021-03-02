@@ -23,15 +23,15 @@
 ![C](https://img.shields.io/badge/-c-fff?&logo=C&logoColor=A8B9CC)
 
 #### Technologies
-![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
-![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
-![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 ![Maven](https://img.shields.io/badge/-Maven-FF0000?&logo=Apache%20Maven&logoColor=#C71A36)
 ![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring&logoColor=#000000&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-gray?style=flat&logo=hibernate)
+![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
+![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
+![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 
 <!--![]()
 ![]()
