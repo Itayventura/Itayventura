@@ -30,6 +30,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000?&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 
