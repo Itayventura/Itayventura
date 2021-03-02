@@ -55,6 +55,8 @@
 [![Stream processor](https://img.shields.io/badge/Stream%20Processor-%20-orange)](https://github.com/Itayventura/StreamProcessor)
 [![Data Structures](https://img.shields.io/badge/Data%20Structuers%20and%20Algorithms-%20-green)](https://github.com/Itayventura/DataStructures)
 [![Compiler](https://img.shields.io/badge/Compiler-%20-lightgrey)](https://github.com/Itayventura/COMPILATION)
+[![Shapes](https://img.shields.io/badge/Shapes-%20-pink)](https://github.com/Itayventura/shape)
+
 
 #### Python projects
 [![Who wants to be a Millionaire](https://img.shields.io/badge/Who%20wants%20to%20be%20a%20millionaire-%20-blue)](https://github.com/Itayventura/WhoWantsToBeAMillionaire)
