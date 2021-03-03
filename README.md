@@ -28,20 +28,13 @@
 #### Technologies
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&style=plastic&logo=spring&logoColor=fff)
 ![Maven](https://img.shields.io/badge/-Maven-FF0000?&style=plastic&logo=Apache%20Maven&logoColor=#C71A36)
-![Docker](https://img.shields.io/badge/-Docker-fff?style=plastic&logo=Docker)
-![Hibernate](https://img.shields.io/badge/-Hibernate-gray?style=plastic&logo=hibernate)
-![SQL](https://img.shields.io/badge/-SQL-fff?style=plastic&logo=Microsoft-SQL-Server&logoColor=blue)
-![MySQL](https://img.shields.io/badge/-MySQL-fff?style=plastic&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-fff?style=plastic&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=Docker&logoColor=fff)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=plastic&logo=hibernate)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=fff&logoWidth=16)
+![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=fff)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=github)
-![Linux](https://img.shields.io/badge/Linux-0339AA?style=plastic&logo=linux&logoWidth=16)
-![Markdown](https://img.shields.io/badge/-Markdown-fff?style=plastic&logo=markdown&logoColor=black)
-![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=plastic&logo=open-source-Initiative)
-
-<!--![]()
-![]()
-![]()
-![]()-->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoWidth=16&logoColor=fff)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=fff)
 
 #### Spring projects
 
