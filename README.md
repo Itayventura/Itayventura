@@ -34,6 +34,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=plastic&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=plastic&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=github)
+![Linux](https://img.shields.io/badge/Linux-0339AA?style=plastic&logo=linux&logoWidth=16)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?style=plastic&logo=markdown&logoColor=black)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=plastic&logo=open-source-Initiative)
 
