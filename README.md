@@ -14,8 +14,8 @@
 
 ### If you'd like to know any further information about me, you can reach me at: 
 
-[![dev.to badge](https://img.shields.io/badge/-Linkedin-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/itayventura)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ventura.itay@gmail.com)](mailto:ventura.itay@gmail.com)
+[![dev.to badge](https://img.shields.io/badge/-Linkedin-%230177B5?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:ventura.itay@gmail.com)](mailto:ventura.itay@gmail.com)
 
 #### Languages
 
@@ -26,16 +26,16 @@
 ![C](https://img.shields.io/badge/-c-fff?&logo=C&logoColor=A8B9CC)
 
 #### Technologies
-![Maven](https://img.shields.io/badge/-Maven-FF0000?&logo=Apache%20Maven&logoColor=#C71A36)
-![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring&logoColor=#000000&logoColor=blue)
-![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
-![Hibernate](https://img.shields.io/badge/-Hibernate-gray?style=flat&logo=hibernate)
-![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
-![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+![Maven](https://img.shields.io/badge/-Maven-FF0000?&style=plastic&logo=Apache%20Maven&logoColor=#C71A36)
+![Spring](https://img.shields.io/badge/-Spring-fff?&style=plastic&logo=Spring&logoColor=#000000&logoColor=blue)
+![Docker](https://img.shields.io/badge/-Docker-fff?style=plastic&logo=Docker)
+![Hibernate](https://img.shields.io/badge/-Hibernate-gray?style=plastic&logo=hibernate)
+![SQL](https://img.shields.io/badge/-SQL-fff?style=plastic&logo=Microsoft-SQL-Server&logoColor=blue)
+![MySQL](https://img.shields.io/badge/-MySQL-fff?style=plastic&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-fff?style=plastic&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
-![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
+![Markdown](https://img.shields.io/badge/-Markdown-fff?style=plastic&logo=markdown&logoColor=black)
+![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=plastic&logo=open-source-Initiative)
 
 <!--![]()
 ![]()
@@ -51,16 +51,16 @@
 
 #### Java projects
 
-[![Doctor's Delay](https://img.shields.io/badge/Doctor's%20Delay-%20-red)](https://github.com/Itayventura/DoctorsDelay)
-[![Stream processor](https://img.shields.io/badge/Stream%20Processor-%20-orange)](https://github.com/Itayventura/StreamProcessor)
-[![Data Structures](https://img.shields.io/badge/Data%20Structuers%20and%20Algorithms-%20-green)](https://github.com/Itayventura/DataStructures)
-[![Compiler](https://img.shields.io/badge/Compiler-%20-lightgrey)](https://github.com/Itayventura/COMPILATION)
-[![Shapes](https://img.shields.io/badge/Shapes-%20-pink)](https://github.com/Itayventura/shape)
+[![Doctor's Delay](https://img.shields.io/badge/Doctor's%20Delay-%20-red?style=plastic)](https://github.com/Itayventura/DoctorsDelay)
+[![Stream processor](https://img.shields.io/badge/Stream%20Processor-%20-orange?style=plastic)](https://github.com/Itayventura/StreamProcessor)
+[![Data Structures](https://img.shields.io/badge/Data%20Structuers%20and%20Algorithms-%20-green?style=plastic)](https://github.com/Itayventura/DataStructures)
+[![Compiler](https://img.shields.io/badge/Compiler-%20-lightgrey?style=plastic)](https://github.com/Itayventura/COMPILATION)
+[![Shapes](https://img.shields.io/badge/Shapes-%20-pink?style=plastic)](https://github.com/Itayventura/shape)
 
 
 #### Python projects
-[![Who wants to be a Millionaire](https://img.shields.io/badge/Who%20wants%20to%20be%20a%20millionaire-%20-blue)](https://github.com/Itayventura/WhoWantsToBeAMillionaire)
-[![Parking lot](https://img.shields.io/badge/Parking%20lot-%20-yellowgreen)](https://github.com/Itayventura/ParkingLot)
+[![Who wants to be a Millionaire](https://img.shields.io/badge/Who%20wants%20to%20be%20a%20millionaire-%20-blue?style=plastic)](https://github.com/Itayventura/WhoWantsToBeAMillionaire)
+[![Parking lot](https://img.shields.io/badge/Parking%20lot-%20-yellowgreen?style=plastic)](https://github.com/Itayventura/ParkingLot)
 
 <!-- Most lang stats -->
 <a href="https://github.com/itayventura">
