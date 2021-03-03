@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am a software developer and a Computer Science graduate from Tel Aviv University
+## I am a software developer and a Computer Science graduate at Tel Aviv University
 
 <!--- 🔭 I’m currently working on ... -->
 - I'm currently developing web applications in the Spring Framework.
