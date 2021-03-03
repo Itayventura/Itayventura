@@ -1,5 +1,5 @@
 # Hi there 👋
-### I am a software developer and a Computer Science graduate from Tel Aviv University
+## I am a software developer and a Computer Science graduate from Tel Aviv University
 
 <!--- 🔭 I’m currently working on ... -->
 - I'm currently developing web applications in the Spring Framework.
@@ -12,14 +12,14 @@
 - I'm an open source contributor beginner
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
 
-### If you'd like to know any further information about me, you can reach me at: 
+## If you'd like to know any further information about me, you can reach me at: 
 
 [![dev.to badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
 
+
+
 #### Languages
-
-
 ![Java](https://img.shields.io/badge/-Java-8B4513?&logo=Java&logoColor=fff&style=plastic)
 ![Python](https://img.shields.io/badge/-Python-ffd757?&logo=Python&logoColor=3776AB&style=plastic)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&logoColor=00599&style=plastic)
@@ -38,14 +38,10 @@
 ![Curl](https://img.shields.io/badge/-Curl-007600?&logo=curl&logoColor=073551&style=plastic)
 
 #### Spring projects
-
 [![Notifier](https://img.shields.io/badge/Notifier-%20-yellow?style=plastic)](https://github.com/Itayventura/Notifier)
 [![Webstore](https://img.shields.io/badge/Webstore-%20-brown?style=plastic)](https://github.com/Itayventura/webstore)
 
-
-
 #### Java projects
-
 [![Doctor's Delay](https://img.shields.io/badge/Doctor's%20Delay-%20-red?style=plastic)](https://github.com/Itayventura/DoctorsDelay)
 [![Stream processor](https://img.shields.io/badge/Stream%20Processor-%20-orange?style=plastic)](https://github.com/Itayventura/StreamProcessor)
 [![Data Structures](https://img.shields.io/badge/Data%20Structuers%20and%20Algorithms-%20-green?style=plastic)](https://github.com/Itayventura/DataStructures)
