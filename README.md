@@ -14,8 +14,8 @@
 
 ### If you'd like to know any further information about me, you can reach me at: 
 
-[![dev.to badge](https://img.shields.io/badge/-Linkedin-%230177B5?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:ventura.itay@gmail.com)](mailto:ventura.itay@gmail.com)
+[![dev.to badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
 
 #### Languages
 
