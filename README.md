@@ -26,8 +26,8 @@
 ![C](https://img.shields.io/badge/-c-fff?&logo=C&logoColor=A8B9CC&style=plastic)
 
 #### Technologies
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?&style=plastic&logo=spring&logoColor=fff)
 ![Maven](https://img.shields.io/badge/-Maven-FF0000?&style=plastic&logo=Apache%20Maven&logoColor=#C71A36)
-![Spring](https://img.shields.io/badge/-Spring-fff?&style=plastic&logo=Spring&logoColor=#000000&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=plastic&logo=Docker)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-gray?style=plastic&logo=hibernate)
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=plastic&logo=Microsoft-SQL-Server&logoColor=blue)
