@@ -21,9 +21,9 @@
 
 
 ![Java](https://img.shields.io/badge/-Java-8B4513?&logo=Java&logoColor=fff&style=plastic)
-![Python](https://img.shields.io/badge/-Python-FFFF00?&logo=Python&logoColor=3776AB&style=plastic)
-![C++](https://img.shields.io/badge/-C++-000000?&logo=c%2b%2b&logoColor=00599&style=plastic)
-![C](https://img.shields.io/badge/-c-fff?&logo=C&logoColor=A8B9CC&style=plastic)
+![Python](https://img.shields.io/badge/-Python-ffd757?&logo=Python&logoColor=3776AB&style=plastic)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&logoColor=00599&style=plastic)
+![C](https://img.shields.io/badge/-c-A8B9CC?&logo=C&logoColor=00599C&style=plastic)
 
 #### Technologies
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&style=plastic&logo=spring&logoColor=fff)
