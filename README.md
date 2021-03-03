@@ -39,8 +39,8 @@
 
 #### Spring projects
 
-[![Notifier](https://img.shields.io/badge/Notifier-%20-yellow)](https://github.com/Itayventura/Notifier)
-[![Webstore](https://img.shields.io/badge/Webstore-%20-brown)](https://github.com/Itayventura/webstore)
+[![Notifier](https://img.shields.io/badge/Notifier-%20-yellow?style=plastic)](https://github.com/Itayventura/Notifier)
+[![Webstore](https://img.shields.io/badge/Webstore-%20-brown?style=plastic)](https://github.com/Itayventura/webstore)
 
 
 
