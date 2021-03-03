@@ -3,7 +3,7 @@
 
 <!--- 🔭 I’m currently working on ... -->
 - I'm currently developing web applications in the Spring Framework.
-- I designed and implemented applications leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud.
+- I designed and implemented applications leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud, Spring MVC.
 - I always test my code! My favourite framework for testing my apps is Junit, and Mockito for unit testing.
 - I have deep understanding of algorithms, data structures, object oriented design.
 - I have knowledge in RDBMS, designed and implemented from scratch database for apps in Java and Python
