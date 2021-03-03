@@ -20,10 +20,10 @@
 #### Languages
 
 
-![Java](https://img.shields.io/badge/-Java-8B4513?&logo=Java&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-FFFF00?&logo=Python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/-C++-000000?&logo=c%2b%2b&logoColor=00599)
-![C](https://img.shields.io/badge/-c-fff?&logo=C&logoColor=A8B9CC)
+![Java](https://img.shields.io/badge/-Java-8B4513?&logo=Java&logoColor=fff&style=plastic)
+![Python](https://img.shields.io/badge/-Python-FFFF00?&logo=Python&logoColor=3776AB&style=plastic)
+![C++](https://img.shields.io/badge/-C++-000000?&logo=c%2b%2b&logoColor=00599&style=plastic)
+![C](https://img.shields.io/badge/-c-fff?&logo=C&logoColor=A8B9CC&style=plastic)
 
 #### Technologies
 ![Maven](https://img.shields.io/badge/-Maven-FF0000?&style=plastic&logo=Apache%20Maven&logoColor=#C71A36)
