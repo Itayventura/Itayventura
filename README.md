@@ -34,6 +34,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=fff)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoWidth=16&logoColor=fff)
+![Flask](https://img.shields.io/badge/-Flask-white?&style=plastic&logo=flask&logoColor=black)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=fff)
 ![Curl](https://img.shields.io/badge/-Curl-007600?&logo=curl&logoColor=073551&style=plastic)
 
