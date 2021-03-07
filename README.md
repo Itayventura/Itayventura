@@ -30,6 +30,7 @@
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?&style=plastic&logo=Apache%20Maven&logoColor=#C71A36)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=Docker&logoColor=fff)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=plastic&logo=hibernate)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?&style=plastic&logo=rabbitmq&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=fff&logoWidth=16)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=fff)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=github)
