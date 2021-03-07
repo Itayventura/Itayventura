@@ -38,7 +38,8 @@
 ![Flask](https://img.shields.io/badge/-Flask-white?&style=plastic&logo=flask&logoColor=black)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=fff)
 ![Curl](https://img.shields.io/badge/-Curl-007600?&logo=curl&logoColor=073551&style=plastic)
-
+<!-- https://img.shields.io/badge/-IntelliJ-000?&logo=IntelliJ%20Idea
+-->
 #### Spring projects
 [![Notifier](https://img.shields.io/badge/Notifier-%20-yellow?style=plastic)](https://github.com/Itayventura/Notifier)
 [![Webstore](https://img.shields.io/badge/Webstore-%20-brown?style=plastic)](https://github.com/Itayventura/webstore)
