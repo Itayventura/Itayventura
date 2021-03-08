@@ -1,4 +1,5 @@
 # Hi there 👋
+- [How to Reach me?](*for-any-further-information-about-me-you-can-reach-me-at)
 ## I am a software developer and a Computer Science graduate at Tel Aviv University
 
 <!--- 🔭 I’m currently working on ... -->
@@ -12,7 +13,7 @@
 - I'm an open source contributor beginner
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
 
-## If you'd like to know any further information about me, you can reach me at: 
+## For any further information about me you can reach me at 
 
 [![dev.to badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
