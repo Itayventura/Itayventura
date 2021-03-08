@@ -1,4 +1,5 @@
-# Hi there 👋 I am a software developer and a Computer Science graduate at Tel Aviv University
+# Hi there 👋 
+## I am a software developer and a Computer Science graduate at Tel Aviv University
 <!--- 🔭 I’m currently working on ... -->
 - [How to Reach me?](#for-any-further-information-about-me-you-can-reach-me-at)
 - I'm currently developing web applications in the Spring Framework.
