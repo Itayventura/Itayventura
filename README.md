@@ -1,9 +1,6 @@
-# Hi there 👋
-- [How to Reach me?](##for-any-further-information-about-me-you-can-reach-me-at)
-<!---- -
-## I am a software developer and a Computer Science graduate at Tel Aviv University
-
+# Hi there 👋 I am a software developer and a Computer Science graduate at Tel Aviv University
 <!--- 🔭 I’m currently working on ... -->
+- [How to Reach me?](#for-any-further-information-about-me-you-can-reach-me-at)
 - I'm currently developing web applications in the Spring Framework.
 - I designed and implemented applications leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud, Spring MVC.
 - I always test my code! My favourite framework for testing my apps is Junit, and Mockito for unit testing.
@@ -14,8 +11,7 @@
 - I'm an open source contributor beginner
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
 
-## For any further information about me you can reach me at
-<!---## For  --->
+# For any further information about me you can reach me at
 
 [![dev.to badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
