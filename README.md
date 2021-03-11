@@ -43,6 +43,7 @@
 #### Spring projects
 [![Notifier](https://img.shields.io/badge/Notifier-%20-yellow?style=plastic)](https://github.com/Itayventura/Notifier)
 [![Webstore](https://img.shields.io/badge/Webstore-%20-brown?style=plastic)](https://github.com/Itayventura/webstore)
+[![Hello-RabbitMQ](https://img.shields.io/badge/Hello%20RabbitMQ-%20-FF6600?style=plastic)](https://github.com/Itayventura/Hello-RabbitMQ)
 
 #### Java projects
 [![Doctor's Delay](https://img.shields.io/badge/Doctor's%20Delay-%20-red?style=plastic)](https://github.com/Itayventura/DoctorsDelay)
