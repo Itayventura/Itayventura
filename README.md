@@ -12,12 +12,6 @@
 - I'm an open source contributor beginner
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
 
-# <h2 id="contact">For any further information about me, you can reach me at:</h2>
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
-
-
-
 ---
 
 #### Languages
@@ -59,11 +53,7 @@
 [![Who wants to be a Millionaire](https://img.shields.io/badge/Who%20wants%20to%20be%20a%20millionaire-%20-blue?style=plastic)](https://github.com/Itayventura/WhoWantsToBeAMillionaire)
 [![Parking lot](https://img.shields.io/badge/Parking%20lot-%20-yellowgreen?style=plastic)](https://github.com/Itayventura/ParkingLot)
 
-<!-- Most lang stats -->
-<!--<a href="https://github.com/itayventura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itayventura&theme=dark&hide_langs_below=1" />
-</a> -->
----
+
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
   <div style='margin-bottom:12px'>
     <a href="https://github.com/Itayventura/Itayventura">
@@ -77,6 +67,11 @@
   </div>
 </div>
 </div>
+
+---
+# <h2 id="contact">For any further information about me, you can reach me at:</h2>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
 
 <!-- add stats:
 https://github-readme-stats.vercel.app/api?username=itayventura&show_icons=true&theme=dark&line_height=40 -->
@@ -94,3 +89,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- Most lang stats -->
+<!--<a href="https://github.com/itayventura">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itayventura&theme=dark&hide_langs_below=1" />
+</a> -->
