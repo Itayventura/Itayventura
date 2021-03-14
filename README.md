@@ -58,10 +58,22 @@
 [![Parking lot](https://img.shields.io/badge/Parking%20lot-%20-yellowgreen?style=plastic)](https://github.com/Itayventura/ParkingLot)
 
 <!-- Most lang stats -->
-<a href="https://github.com/itayventura">
+<!--<a href="https://github.com/itayventura">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itayventura&theme=dark&hide_langs_below=1" />
-</a>
-
+</a> -->
+<div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
+  <div style='margin-bottom:12px'>
+    <a href="https://github.com/AubidaNaalwa/AubidaNaalwa">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itayventura&hide=c%2B%2B,c%23&theme=dark&langs_count=5&layout=compact" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/AubidaNaalwa/AubidaNaalwa">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Itayventura&show_icons=true&line_height=27&count_private=true&hide=stars&theme=dark" alt="Itay Ventura's GitHub Stats" />
+    </a>
+  </div>
+</div>
+</div>
 
 <!-- add stats:
 https://github-readme-stats.vercel.app/api?username=itayventura&show_icons=true&theme=dark&line_height=40 -->
