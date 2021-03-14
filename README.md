@@ -17,7 +17,7 @@
 [![dev.to badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
 
-
+---
 
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-8B4513?&logo=Java&logoColor=fff&style=plastic)
@@ -40,6 +40,7 @@
 ![Curl](https://img.shields.io/badge/-Curl-007600?&logo=curl&logoColor=073551&style=plastic)
 <!-- https://img.shields.io/badge/-IntelliJ-000?&logo=IntelliJ%20Idea
 -->
+---
 #### Spring projects
 [![Notifier](https://img.shields.io/badge/Notifier-%20-yellow?style=plastic)](https://github.com/Itayventura/Notifier)
 [![Webstore](https://img.shields.io/badge/Webstore-%20-brown?style=plastic)](https://github.com/Itayventura/webstore)
