@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-ffd757?&logo=Python&logoColor=3776AB&style=plastic)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&logoColor=00599&style=plastic)
 ![C](https://img.shields.io/badge/-c-A8B9CC?&logo=C&logoColor=00599C&style=plastic)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=fff)
 
 #### Technologies
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&style=plastic&logo=spring&logoColor=fff)
