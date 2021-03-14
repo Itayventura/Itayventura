@@ -64,12 +64,12 @@
 ---
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
   <div style='margin-bottom:12px'>
-    <a href="https://github.com/AubidaNaalwa/AubidaNaalwa">
+    <a href="https://github.com/Itayventura/Itayventura">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itayventura&hide=c%2B%2B,c%23&theme=dark&langs_count=5&layout=compact" />
     </a>
   </div>
   <div>
-    <a href="https://github.com/AubidaNaalwa/AubidaNaalwa">
+    <a href="https://github.com/Itayventura/Itayventura">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Itayventura&show_icons=true&line_height=27&count_private=true&hide=stars&theme=dark" alt="Itay Ventura's GitHub Stats" />
     </a>
   </div>
