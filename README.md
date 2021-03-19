@@ -68,8 +68,8 @@
   </div>
 </div>
 </div>
----
 
+---
 #### Repositories cards
 
 [![Notifier Card](https://github-readme-stats.vercel.app/api/pin/?username=itayventura&repo=Notifier&show_owner=true&theme=dark)](https://github.com/itayventura/Notifier)
