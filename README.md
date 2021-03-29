@@ -21,6 +21,7 @@
 ![C](https://img.shields.io/badge/-c-A8B9CC?&logo=C&logoColor=00599C&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=000)
 
 #### Technologies
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&style=plastic&logo=spring&logoColor=fff)
