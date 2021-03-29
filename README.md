@@ -20,6 +20,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&logoColor=00599&style=plastic)
 ![C](https://img.shields.io/badge/-c-A8B9CC?&logo=C&logoColor=00599C&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=fff)
 
 #### Technologies
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&style=plastic&logo=spring&logoColor=fff)
