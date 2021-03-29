@@ -58,7 +58,7 @@
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
   <div style='margin-bottom:12px'>
     <a href="https://github.com/Itayventura/Itayventura">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itayventura&hide=c%2B%2B,c%23&theme=dark&langs_count=5&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itayventura&hide=c%2B%2B,c%23&theme=dark&langs_count=10&layout=compact" />
     </a>
   </div>
   <div>
