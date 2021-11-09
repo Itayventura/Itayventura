@@ -26,6 +26,7 @@
 #### Technologies
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&style=plastic&logo=spring&logoColor=fff)
 ![Vert.x](https://img.shields.io/badge/-Vert.x-000?&style=plastic&logo=eclipsevertdotx&logoColor=782A90)
+![gradle](https://img.shields.io/badge/-gradle-02303A?&style=plastic&logo=gradle&logoColor=fff)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?&style=plastic&logo=Apache%20Maven&logoColor=#C71A36)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=Docker&logoColor=fff)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=plastic&logo=hibernate)
