@@ -26,6 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=000)
 
 #### Technologies
+![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?&logo=quarkus&logoColor=fff&style=plastic)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&style=plastic&logo=spring&logoColor=fff)
 ![Vert.x](https://img.shields.io/badge/-Vert.x-000?&style=plastic&logo=eclipsevertdotx&logoColor=782A90)
 ![gradle](https://img.shields.io/badge/-gradle-02303A?&style=plastic&logo=gradle&logoColor=fff)
