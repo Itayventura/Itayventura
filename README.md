@@ -44,7 +44,7 @@
 <!-- https://img.shields.io/badge/-IntelliJ-000?&logo=IntelliJ%20Idea
 -->
 ---
-#### Technologies
+#### Tools
 ![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?&logo=Sourcetree&logoColor=fff&style=plastic)
 
 
