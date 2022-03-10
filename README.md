@@ -1,8 +1,10 @@
 # Hi there 👋 
-## I am a software developer and a Computer Science graduate at Tel Aviv University
+## I am a software developer at Neema and a Computer Science graduate at Tel Aviv University
 <!--- 🔭 I’m currently working on ... -->
 - <a href="#contact">How to reach me?</a>
-- I'm currently developing web applications in the Spring Framework.
+- I am currently working on a microservice written in Quarkus. the project embraces the Asynchronous model. it has an independent MySQL database designed and implemented from scratch.
+- In the recent year I got to know the Vert.x tool kit
+- Last Year I developed web applications in the Spring Framework.
 - I designed and implemented applications leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud, Spring MVC.
 - I always test my code! My favourite framework for testing my apps is Junit, and Mockito for unit testing.
 - I have deep understanding of object oriented design, data structures, and related algorithms .
