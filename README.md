@@ -7,10 +7,11 @@
 - Last Year I developed web applications in the Spring Framework.
 - I designed and implemented applications leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud, Spring MVC.
 - I always test my code! My favourite framework for testing my apps is Junit, and Mockito for unit testing.
-- I have deep understanding of object oriented design, data structures, and related algorithms .
+- In-depth understanding of data structures and related algorithms, object-oriented programming and design
 - I have knowledge in RDBMS, designed and implemented from scratch database for apps in Java and Python
+- I have gained experience in the past years in database maintaining, SQL programming, Query optimization, solving deadlocks & database locks 
 - I have recently learnt Docker and built an image for my apps.
-- I am familiar with JDBC, JPA Hiberante, JPQL.
+- I am familiar with JDBC, JPA Hiberante, Reactive Hibernate, JPQL.
 - I'm an open source contributor beginner
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
 
