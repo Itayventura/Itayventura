@@ -60,6 +60,7 @@
 [![Doctor's Delay](https://img.shields.io/badge/Doctor's%20Delay-%20-red?style=plastic)](https://github.com/Itayventura/DoctorsDelay)
 [![Stream processor](https://img.shields.io/badge/Stream%20Processor-%20-orange?style=plastic)](https://github.com/Itayventura/StreamProcessor)
 [![Data Structures](https://img.shields.io/badge/Data%20Structuers%20and%20Algorithms-%20-green?style=plastic)](https://github.com/Itayventura/DataStructures)
+[![Data Structures](https://img.shields.io/badge/Design%20Patterns-%20-blue?style=plastic)](https://github.com/Itayventura/design-patterns)
 [![Compiler](https://img.shields.io/badge/Compiler-%20-lightgrey?style=plastic)](https://github.com/Itayventura/COMPILATION)
 [![Shapes](https://img.shields.io/badge/Shapes-%20-pink?style=plastic)](https://github.com/Itayventura/shape)
 
