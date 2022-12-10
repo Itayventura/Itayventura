@@ -1,18 +1,21 @@
 # Hi there and welcome to my Github👋 
-## I am a software developer at Neema and a Computer Science graduate at Tel Aviv University
-<!--- 🔭 I’m currently working on ... -->
+## I am a full stack developer, currently working at Neema.
+
 - <a href="#contact">How to reach me?</a>
+- In my daily work, I develop reactive applications using Java, MySQL, JavaScript, HTML, CSS.
 - I am currently working on a microservice written in Quarkus. the project embraces the Asynchronous model. it has an independent MySQL database designed and implemented from scratch.
-- In the recent year I got to know and work with the Vert.x tool kit
-- Last Year I developed web applications in the Spring Framework.
-- I designed and implemented applications leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud, Spring MVC.
+- In the recent year I got to know and work with Vert.x and its fundamentals.
+- Before joining Neema, I developed some web applications using the Spring Framework by leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud, Spring MVC.
 - I always test my code! My favourite framework for testing my apps is Junit, and Mockito for unit testing.
-- In-depth understanding of data structures and related algorithms, object-oriented programming and design
-- I have knowledge in RDBMS, designed and implemented from scratch database for apps in Java and Python
-- I have gained experience in the past years in database maintaining, SQL programming, Query optimization, solving deadlocks & database locks 
+- I have in-depth understanding of data structures and related algorithms, object-oriented programming and design
+- I have deep knowledge in RDBMS, designed and implemented from scratch database for apps in Java and Python.
+- I have gained experience in the past years in database design, database maintaining, SQL programming, Query optimization, solving deadlocks & database locks 
 - I have recently learnt Docker and built an image for my apps.
 - I am familiar with JDBC, JPA Hiberante, Reactive Hibernate, JPQL.
+- I am passionate about Software architechture and I am familiar with DDD, Clean Architechture, and Hexgonal Architechture.
+- In my code, I always follow the Clean Code principles and follow the boy scout rule - leave the code cleaner than I found it.
 - I'm an open source contributor beginner
+- I graduated BSc in Computer Science at Tel Aviv University on 2020.
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
 
 ---
