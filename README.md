@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi there and welcome to my Github👋 
 ## I am a software developer at Neema and a Computer Science graduate at Tel Aviv University
 <!--- 🔭 I’m currently working on ... -->
 - <a href="#contact">How to reach me?</a>
@@ -52,6 +52,7 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitcucket-0052CC?style=plastic&logo=bitbucket&logoColor=white)
 
 
 #### Spring projects
