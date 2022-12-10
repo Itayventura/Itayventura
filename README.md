@@ -13,10 +13,12 @@
 - I have recently learnt Docker and built an image for my apps.
 - I am familiar with JDBC, JPA Hiberante, Reactive Hibernate, JPQL.
 - I am passionate about Software architechture and I am familiar with DDD, Clean Architechture, and Hexgonal Architechture.
-- In my code, I always follow the Clean Code principles and follow the boy scout rule - leave the code cleaner than I found it.
+- I always follow the Clean Code principles and the boy scout rule - leave the code cleaner than I found it. 
 - I'm an open source contributor beginner
 - I graduated BSc in Computer Science at Tel Aviv University on 2020.
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
+
+<!--  todo monitoring-->
 
 ---
 
