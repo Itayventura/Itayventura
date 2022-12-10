@@ -51,6 +51,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white)
 
 
 #### Spring projects
