@@ -94,6 +94,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itayventura&hide=c%2B%2B,c%23&theme=dark&langs_count=10&layout=compact" />
     </a>
   </div>
+  <br></br>
   <div>
     <a href="https://github.com/Itayventura/Itayventura">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Itayventura&show_icons=true&line_height=27&count_private=true&hide=stars&theme=dark" alt="Itay Ventura's GitHub Stats" />
@@ -107,10 +108,6 @@
 
 [![Notifier Card](https://github-readme-stats.vercel.app/api/pin/?username=itayventura&repo=Notifier&show_owner=true&theme=dark)](https://github.com/itayventura/Notifier)
 
-
-<!-- add stats:
-https://github-readme-stats.vercel.app/api?username=itayventura&show_icons=true&theme=dark&line_height=40 -->
-<!--
 
 Here are some ideas to get you started:
 
