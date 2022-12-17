@@ -1,10 +1,10 @@
 ## Hi there and welcome to my Github👋 
-<b>Reach me at:&ensp;</b>
+<b>You can reach me at:&ensp;</b>
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
 <br></br>
 
-#### 2021-now full stack developer at Neema.
+#### 2021-now &emsp; Full Stack Developer at Neema.
 
 - developed reactive applications using Java, MySQL, JavaScript, HTML, CSS.
 - worked on a microservice written in Quarkus. the project embraces the Asynchronous model. it has an independent MySQL database designed and implemented from scratch.
@@ -12,7 +12,7 @@
 - gained experience in database design, database maintaining, SQL programming, Query optimization, solving deadlocks & database locks 
 - monitored production applications on daily basis.
 <br></br>
-#### 2020-2021 independent
+#### 2020-2021 &ensp; Independent
 - developed some web applications using the Spring Framework by leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud, Spring MVC.
 - used Junit for testing my apps, and Mockito for unit testing.
 - learnt Docker and built an image for my apps.
