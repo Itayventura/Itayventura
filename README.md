@@ -1,24 +1,33 @@
-# Hi there and welcome to my Github👋 
-## I am a full stack developer, currently working at Neema.
+## Hi there and welcome to my Github👋 
+<b>Reach me at:&ensp;</b>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
+<br></br>
 
-- <a href="#contact">How to reach me?</a>
-- In my daily work, I develop reactive applications using Java, MySQL, JavaScript, HTML, CSS.
-- I am currently working on a microservice written in Quarkus. the project embraces the Asynchronous model. it has an independent MySQL database designed and implemented from scratch.
-- In the recent year I got to know and work with Vert.x and its fundamentals.
-- Before joining Neema, I developed some web applications using the Spring Framework by leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud, Spring MVC.
-- I always test my code! My favourite framework for testing my apps is Junit, and Mockito for unit testing.
+#### 2021-now full stack developer at Neema.
+
+- developed reactive applications using Java, MySQL, JavaScript, HTML, CSS.
+- worked on a microservice written in Quarkus. the project embraces the Asynchronous model. it has an independent MySQL database designed and implemented from scratch.
+- got to know Vert.x and its fundamentals.
+- gained experience in database design, database maintaining, SQL programming, Query optimization, solving deadlocks & database locks 
+- monitored production applications on daily basis.
+<br></br>
+#### 2020-2021 independent
+- developed some web applications using the Spring Framework by leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud, Spring MVC.
+- used Junit for testing my apps, and Mockito for unit testing.
+- learnt Docker and built an image for my apps.
+- integrated RabbitMQ as a message broker 
+- contributed to an open source project
+<br></br>
+#### who am I?
 - I have in-depth understanding of data structures and related algorithms, object-oriented programming and design
 - I have deep knowledge in RDBMS, designed and implemented from scratch database for apps in Java and Python.
-- I have gained experience in the past years in database design, database maintaining, SQL programming, Query optimization, solving deadlocks & database locks 
-- I have recently learnt Docker and built an image for my apps.
 - I am familiar with JDBC, JPA Hiberante, Reactive Hibernate, JPQL.
 - I am passionate about Software architechture and I am familiar with DDD, Clean Architechture, and Hexgonal Architechture.
 - I always follow the Clean Code principles and the boy scout rule - leave the code cleaner than I found it. 
-- I'm an open source contributor beginner
 - I graduated BSc in Computer Science at Tel Aviv University on 2020.
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
 
-<!--  todo monitoring-->
 
 ---
 
@@ -99,15 +108,9 @@
 [![Notifier Card](https://github-readme-stats.vercel.app/api/pin/?username=itayventura&repo=Notifier&show_owner=true&theme=dark)](https://github.com/itayventura/Notifier)
 
 
----
-# <h2 id="contact">For any further information about me, you can reach me at:<br><br></h2>
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
-
 <!-- add stats:
 https://github-readme-stats.vercel.app/api?username=itayventura&show_icons=true&theme=dark&line_height=40 -->
 <!--
-**Itayventura/Itayventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -120,9 +123,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<!-- Most lang stats -->
-<!--<a href="https://github.com/itayventura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itayventura&theme=dark&hide_langs_below=1" />
-</a> -->
