@@ -19,7 +19,7 @@
 - integrated RabbitMQ as a message broker 
 - contributed to an open source project
 <br></br>
-#### who am I?
+#### Who am I?
 - I have in-depth understanding of data structures and related algorithms, object-oriented programming and design
 - I have deep knowledge in RDBMS, designed and implemented from scratch database for apps in Java and Python.
 - I am familiar with JDBC, JPA Hiberante, Reactive Hibernate, JPQL.
@@ -56,9 +56,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-white?&style=plastic&logo=flask&logoColor=black)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=fff)
 ![Curl](https://img.shields.io/badge/-Curl-007600?&logo=curl&logoColor=073551&style=plastic)
-<!-- https://img.shields.io/badge/-IntelliJ-000?&logo=IntelliJ%20Idea
--->
----
+
 #### Tools
 ![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?&logo=Sourcetree&logoColor=fff&style=plastic)
 ![Intellij](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?&logo=IntelliJ%20IDEA&logoColor=fff&style=plastic)
@@ -67,6 +65,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitcucket-0052CC?style=plastic&logo=bitbucket&logoColor=white)
+
+---
 
 
 #### Spring projects
@@ -87,7 +87,7 @@
 [![Who wants to be a Millionaire](https://img.shields.io/badge/Who%20wants%20to%20be%20a%20millionaire-%20-blue?style=plastic)](https://github.com/Itayventura/WhoWantsToBeAMillionaire)
 [![Parking lot](https://img.shields.io/badge/Parking%20lot-%20-yellowgreen?style=plastic)](https://github.com/Itayventura/ParkingLot)
 
-
+---
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
   <div style='margin-bottom:12px'>
     <a href="https://github.com/Itayventura/Itayventura">
