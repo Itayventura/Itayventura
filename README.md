@@ -108,7 +108,7 @@
 
 [![Notifier Card](https://github-readme-stats.vercel.app/api/pin/?username=itayventura&repo=Notifier&show_owner=true&theme=dark)](https://github.com/itayventura/Notifier)
 
-
+<!--  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
