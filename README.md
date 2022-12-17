@@ -51,16 +51,16 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?&style=plastic&logo=rabbitmq&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=fff&logoWidth=16)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=fff)
-![Github](https://img.shields.io/badge/-Github-000?&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoWidth=16&logoColor=fff)
 ![Flask](https://img.shields.io/badge/-Flask-white?&style=plastic&logo=flask&logoColor=black)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=fff)
 ![Curl](https://img.shields.io/badge/-Curl-007600?&logo=curl&logoColor=073551&style=plastic)
 
-#### Tools
+#### Tools and Environments
 ![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?&logo=Sourcetree&logoColor=fff&style=plastic)
 ![Intellij](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?&logo=IntelliJ%20IDEA&logoColor=fff&style=plastic)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-000?&logo=github)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white)
