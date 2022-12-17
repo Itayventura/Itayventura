@@ -7,14 +7,14 @@
 #### 2021-now &emsp; Full Stack Developer at Neema.
 
 - developed reactive applications using Java, MySQL, JavaScript, HTML, CSS.
-- worked on a microservice written in Quarkus. the project embraces the Asynchronous model. it has an independent MySQL database designed and implemented from scratch.
+- worked on a microservice written in Quarkus. the project embraces the asynchronous model. it has an independent MySQL database designed and implemented from scratch.
 - got to know Vert.x and its fundamentals.
 - gained experience in database design, database maintaining, SQL programming, Query optimization, solving deadlocks & database locks 
 - monitored production applications on daily basis.
 <br></br>
 #### 2020-2021 &ensp; Independent
 - developed some web applications using the Spring Framework by leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud, Spring MVC.
-- used Junit for testing my apps, and Mockito for unit testing.
+- used Junit and Mockito for testing.
 - learnt Docker and built an image for my apps.
 - integrated RabbitMQ as a message broker 
 - contributed to an open source project
@@ -23,8 +23,8 @@
 - I have in-depth understanding of data structures and related algorithms, object-oriented programming and design
 - I have deep knowledge in RDBMS, designed and implemented from scratch database for apps in Java and Python.
 - I am familiar with JDBC, JPA Hiberante, Reactive Hibernate, JPQL.
-- I am passionate about Software architechture and I am familiar with DDD, Clean Architechture, and Hexgonal Architechture.
-- I always follow the Clean Code principles and the boy scout rule - leave the code cleaner than I found it. 
+- I am passionate about software architechture and I am familiar with DDD, Clean Architechture, and Hexgonal Architechture.
+- I always follow the Clean Code principles and the boy scout rule - leave the code cleaner than you found it. 
 - I graduated BSc in Computer Science at Tel Aviv University on 2020.
 - My projects are available [here](https://github.com/itayventura?tab=repositories)
 
