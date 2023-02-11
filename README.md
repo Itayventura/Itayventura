@@ -87,6 +87,8 @@
 [![Who wants to be a Millionaire](https://img.shields.io/badge/Who%20wants%20to%20be%20a%20millionaire-%20-blue?style=plastic)](https://github.com/Itayventura/WhoWantsToBeAMillionaire)
 [![Parking lot](https://img.shields.io/badge/Parking%20lot-%20-yellowgreen?style=plastic)](https://github.com/Itayventura/ParkingLot)
 
+#### MySQL Tips & Tricks
+[![MySQL Tips & Tricks](https://img.shields.io/badge/My%20SQL%20Tips%20and%20Tricks-%20-orange?style=plastic)](https://github.com/Itayventura/MySql)
 ---
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
   <div style='margin-bottom:12px'>
