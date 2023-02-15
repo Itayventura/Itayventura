@@ -18,6 +18,7 @@
 - learnt Docker and built an image for my apps.
 - integrated RabbitMQ as a message broker 
 - contributed to an open source project
+- designed an employee management system implemented as a Spring boot web application. [Notifier](https://github.com/Itayventura/Notifier) is a RESTful service that has a feature of sending messages in the company. Entities are managed by hibernate ORM, an embedded database is created by a script written in SQL.
 <br></br>
 #### Who am I?
 - I have in-depth understanding of data structures and related algorithms, object-oriented programming and design
