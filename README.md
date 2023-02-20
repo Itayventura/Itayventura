@@ -1,4 +1,7 @@
 ## Hi there and welcome to my Github👋 
+
+I am a software developer with a deep understanding of data structures and related algorithms, as well as object-oriented programming and design. I have considerable experience designing and implementing databases from scratch for Java and Python applications, utilizing technologies such as JDBC, JPA Hibernate, Reactive Hibernate,  JPQL and plain SQL. I am passionate about software architecture which led me to become well-versed in various architecture patterns such as DDD, Clean Architecture, and Hexagonal Architecture. Additionally, I am committed to adhering to the Clean Code principles and the Boy Scout Rule, always striving to leave the code cleaner than I found it. I recently graduated with a BSc in Computer Science from Tel Aviv University in 2020, and my projects are available [here](https://github.com/itayventura?tab=repositories)
+<br></br>
 <b>You can reach me at:&ensp;</b>
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
@@ -26,16 +29,6 @@
 - [Who wants to be a millionaire](https://github.com/Itayventura/WhoWantsToBeAMillionaire) - designed and implemented a Trivia Game system which manages a music questionnaire and decides who the next millionaire is. Used MySQL for storing the data and Python for the service implementation and data collection.
 - [Compiler](https://github.com/Itayventura/COMPILATION) - implemented a compiler as part of Compilation Course in Java   
 <br></br>
-#### Who am I?
-- I have in-depth understanding of data structures and related algorithms, object-oriented programming and design
-- I have deep knowledge in RDBMS, designed and implemented from scratch database for apps in Java and Python.
-- I am familiar with JDBC, JPA Hiberante, Reactive Hibernate, JPQL.
-- I am passionate about software architechture and I am familiar with DDD, Clean Architechture, and Hexgonal Architechture.
-- I always follow the Clean Code principles and the boy scout rule - leave the code cleaner than you found it. 
-- I graduated BSc in Computer Science at Tel Aviv University on 2020.
-- My projects are available [here](https://github.com/itayventura?tab=repositories)
-
-
 ---
 
 #### Languages
