@@ -24,7 +24,7 @@ I am a software developer with a deep understanding of data structures and relat
 - designed an employee management system implemented as a Spring boot web application. [Notifier](https://github.com/Itayventura/Notifier) is a RESTful service that has a feature of sending messages in the company. Entities are managed by hibernate ORM, an embedded database is created by a script written in SQL.
 <br></br>
   
-#### 2016-2020 &ensp; Bs.c Computer Science @ Tel Aviv University
+#### 2016-2020 &ensp; BSc Computer Science @ Tel Aviv University
 - [Doctor’s Delay](https://github.com/Itayventura/DoctorsDelay) - designed and implemented an app for tracking delays for doctor’s appointments. There are two main functions in the app: REPORT DELAY, REQUEST DELAY. The user may ask for the current delay of a specific doctor, or ask for a predicted delay for his future next appointment. The prediction made by analyzing past delays using ML algorithm. The project included front-end, backend and server-side implementation. Used Java for implementing the services, MySQL server for the clinic data and Linux environments.  
 - [Who wants to be a millionaire](https://github.com/Itayventura/WhoWantsToBeAMillionaire) - designed and implemented a Trivia Game system which manages a music questionnaire and decides who the next millionaire is. Used MySQL for storing the data and Python for the service implementation and data collection.
 - [Compiler](https://github.com/Itayventura/COMPILATION) - implemented a compiler as part of Compilation Course in Java   
