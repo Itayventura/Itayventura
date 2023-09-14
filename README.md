@@ -34,6 +34,7 @@ I am a software developer with a deep understanding of data structures and relat
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-8B4513?&logo=Java&logoColor=fff&style=plastic)
 ![Python](https://img.shields.io/badge/-Python-ffd757?&logo=Python&logoColor=3776AB&style=plastic)
+![Kotlin](https://img.shields.io/badge/-Kotlin-E24462?&logo=Kotlin&logoColor=7F52FF&style=plastic)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&logoColor=00599&style=plastic)
 ![C](https://img.shields.io/badge/-c-A8B9CC?&logo=C&logoColor=00599C&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=fff)
@@ -50,6 +51,7 @@ I am a software developer with a deep understanding of data structures and relat
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=plastic&logo=hibernate)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?&style=plastic&logo=rabbitmq&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=fff&logoWidth=16)
+![MongoDB](https://img.shields.io/badge/-MongoDB-001E2B?&logo=mongoDB&logoColor=3FA037&style=plastic)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoWidth=16&logoColor=fff)
 ![Flask](https://img.shields.io/badge/-Flask-white?&style=plastic&logo=flask&logoColor=black)
