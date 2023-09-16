@@ -1,19 +1,25 @@
 ## Hi there and welcome to my Github👋 
 
-I am a software developer with a deep understanding of data structures and related algorithms, as well as object-oriented programming and design. I have considerable experience designing and implementing databases from scratch for Java and Python applications, utilizing technologies such as JDBC, JPA Hibernate, Reactive Hibernate,  JPQL and plain SQL. I am passionate about software architecture which led me to become well-versed in various architecture patterns such as DDD, Clean Architecture, and Hexagonal Architecture. Additionally, I am committed to adhering to the Clean Code principles and the Boy Scout Rule, always striving to leave the code cleaner than I found it. I recently graduated with a BSc in Computer Science from Tel Aviv University in 2020, and my projects are available [here](https://github.com/itayventura?tab=repositories)
+I am a software developer with several years of experience in the industry. Over the course of my career, I have had the opportunity to write code for production applications used by tens of thousands of users. This experience has taught me how to write, design, test, and maintain scalable, clean, and user-friendly code.
+
+In my current role at a fast-growing startup, I work in a collaborative team environment where delivering new features quickly and maintaining existing applications is essential. This role involves working on both backend and frontend (web development) tasks and daily database maintenance
 <br></br>
+
 <b>You can reach me at:&ensp;</b>
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/itayventura)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:ventura.itay@gmail.com)
 <br></br>
+My projects are available [here](https://github.com/itayventura?tab=repositories)
+<br></br>
 
 #### 2021-now &emsp; Full Stack Developer at Neema.
 
-- developed reactive applications using Java, MySQL, JavaScript, HTML, CSS.
+- developed reactive applications using Java, Kotlin, MySQL, MongoDB, JavaScript, HTML, CSS.
 - worked on a microservice written in Quarkus. the project embraces the asynchronous model. it has an independent MySQL database designed and implemented from scratch.
 - got to know Vert.x and its fundamentals.
 - gained experience in database design, database maintaining, SQL programming, Query optimization, solving deadlocks & database locks 
 - monitored production applications on daily basis.
+- wrote plenty of plain SQL queries as well as hibernate entities for interacting with the database.
 <br></br>
 #### 2020-2021 &ensp; Independent
 - developed some web applications using the Spring Framework by leveraging Spring Boot, Spring Data, Spring Data Commons, Spring Data Rest, Spring Hateoas, Spring Cloud, Spring MVC.
@@ -25,6 +31,9 @@ I am a software developer with a deep understanding of data structures and relat
 <br></br>
   
 #### 2016-2020 &ensp; BSc Computer Science @ Tel Aviv University
+My studies at the university laid the foundation for my understanding of Computer Science, covering programming languages, data structures, related algorithms, as well as object-oriented programming and design. Additionally, I actively participated in various cooperative projects with different numbers of students, further enhancing my practical skills and teamwork abilities.
+
+
 - [Doctor’s Delay](https://github.com/Itayventura/DoctorsDelay) - designed and implemented an app for tracking delays for doctor’s appointments. There are two main functions in the app: REPORT DELAY, REQUEST DELAY. The user may ask for the current delay of a specific doctor, or ask for a predicted delay for his future next appointment. The prediction made by analyzing past delays using ML algorithm. The project included front-end, backend and server-side implementation. Used Java for implementing the services, MySQL server for the clinic data and Linux environments.  
 - [Who wants to be a millionaire](https://github.com/Itayventura/WhoWantsToBeAMillionaire) - designed and implemented a Trivia Game system which manages a music questionnaire and decides who the next millionaire is. Used MySQL for storing the data and Python for the service implementation and data collection.
 - [Compiler](https://github.com/Itayventura/COMPILATION) - implemented a compiler as part of Compilation Course in Java   
